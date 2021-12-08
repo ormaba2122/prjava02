@@ -1,0 +1,15 @@
+INSTRUCCIONS D'EXECUCIÓ
+-----------------------
+1. git clone git@github.com:dacomo2021daw2/prjava02.git
+5. git checkout main
+7. git checkout branca00
+10b. git merge branca00
+12. git push
+14a. git push --set-upstream origin branca01
+-----------------------------------------------------------------
+RESPOSTES A PREGUNTES
+---------------------
+6. No, perqué els canvis s'han fet unicament a la branca00
+7. Si, perqué els canvis d'han fet en aquesta branca
+12c. Perqué el push nomes esta fet a la branca main aleshores es la unica que s'actualitza.
+14c. Esta a 0 commits de distancia.
